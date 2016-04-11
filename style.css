@@ -4,6 +4,15 @@ body {
     background-repeat: no-repeat;
     background-position: top center;
     background-attachment: fixed;
+
+    font-family: "Arvo", sans-serif;
+
+    line-height: 30px;
+}
+
+.rounded-img {
+    border: 5px solid #a65a00;
+    border-radius: 100%;
 }
 
 #myName {
