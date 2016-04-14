@@ -29,3 +29,13 @@ a {
     font-family: "Ubuntu", sans-serif;
     color: #ff5400
 }
+
+#right-panel {
+     float: right;
+     text-align: right;
+}
+
+#left-panel {
+     float: left;
+     text-align: left;
+}
